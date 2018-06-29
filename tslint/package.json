@@ -1,0 +1,13 @@
+{
+  "name": "@cubos/tslint",
+  "version": "0.1.0",
+  "main": "tslint.json",
+  "license": "MIT",
+  "dependencies": {
+    "tslint-config-prettier": "^1.13.0",
+    "tslint-plugin-prettier": "^1.3.0"
+  },
+  "peerDependencies": {
+    "tslint": "^5"
+  }
+}
