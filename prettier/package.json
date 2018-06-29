@@ -1,5 +1,5 @@
 {
-  "name": "@cubus/prettier",
+  "name": "@cubos/prettier",
   "version": "0.1.0",
   "main": ".prettierrc",
   "license": "MIT",
