@@ -4,6 +4,7 @@
   "main": "tsconfig.json",
   "license": "MIT",
   "peerDependencies": {
+    "tslib": "^1.9.3",
     "typescript": "^2.8"
   }
 }
