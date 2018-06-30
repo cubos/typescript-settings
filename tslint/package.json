@@ -1,6 +1,6 @@
 {
   "name": "@cubos/tslint",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "main": "tslint.json",
   "license": "MIT",
   "repository": {
