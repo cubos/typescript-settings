@@ -3,6 +3,10 @@
   "version": "0.1.0",
   "main": ".prettierrc",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cubos/typescript-settings/tree/master/prettier"
+  },
   "peerDependencies": {
     "prettier": "^1"
   }
