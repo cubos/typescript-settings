@@ -13,7 +13,10 @@
         "member-ordering": false,
         "no-console": false,
         "no-empty-interface": false,
-        "max-classes-per-file": false
+        "max-classes-per-file": false,
+		"jsx-no-lambda": false,
+		"jsx-no-multiline-js": false,
+		"jsx-boolean-value": [true, "never"]
     },
     "rulesDirectory": []
 }
